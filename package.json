@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/rbhog/rbhog.github.io.git",
-  "homepage": "https://rbhog.github.io/",
+  "homepage": "https://rbhog.github.io/#",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
