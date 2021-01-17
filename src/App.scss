@@ -18,9 +18,11 @@ body {
 }
 
 .intro {
-    text-align: center;
-    margin: auto;
-    // vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    // margin: auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .intro h1 {
