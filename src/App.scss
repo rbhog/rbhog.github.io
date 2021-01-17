@@ -5,22 +5,25 @@ $name-color: #fff;
 body {
     background-color: #{$bg-color};
     color:#{$font-color};
-    margin: auto;
+    margin: 0;
     width: 100%;
+    display: flex;
+	flex-direction: column;
+	align-items: center;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
 }
 
 .intro .name {
-    display: inline;
+    display: inline-flex;
     color: #{$name-color};
 }
 
 .intro {
     align-items: center;
     justify-content: center;
-    // margin: auto;
+    margin: auto;
     display: flex;
     flex-direction: column;
 }
