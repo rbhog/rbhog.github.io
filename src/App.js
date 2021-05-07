@@ -1,4 +1,6 @@
 import './App.scss';
+import Gallery from './components/Gallery';
+import { SocialIcon } from 'react-social-icons';
 
 function App() {
   return (
@@ -21,9 +23,18 @@ function App() {
         </div>
         <div class="about_splitter"></div>
         <div class="about_blurb">
-          <p>Hi there, I guess you found me. I'm Rithvik and I'm a senior in high school. I do robotics, cybersecurity, and engineering. If you are good at web development, please help me.</p>
+          <p>
+            Hi there, I guess you found me. I'm Rithvik and I'm a senior in high school. I do robotics, cybersecurity, and engineering. If you are good at web development, please help me.
+          </p>
         </div>
       </div>
+      <div class="socials">
+        <SocialIcon url="https://www.linkedin.com/in/rithvik-bhogavilli/" bgColor="#fff" />
+        <SocialIcon url="https://github.com/rbhog" bgColor="#fff" />
+        <SocialIcon url="https://www.instagram.com/rbhog/" bgColor="#fff" />
+        <SocialIcon url="mailto:rbhogavilli@gmail.com" bgColor="#fff" />
+      </div>
+      <Gallery />
     </div>
   );
 }
