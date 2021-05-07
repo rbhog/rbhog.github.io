@@ -1,14 +1,33 @@
 import './App.scss';
+// import scrollStyle from './scroll.module.scss';
 import Gallery from './components/Gallery';
 import { SocialIcon } from 'react-social-icons';
+import {FaChevronDown} from 'react-icons/fa';
 
 function App() {
+  let arrowStyle = {
+    position: "absolute", 
+    bottom: "40px", 
+    // transform: "translate(-50%, -50%)",
+    // transition: "200ms all ease",
+    // animation: "animate 2s ease",
+    // animationIterationCount: "infinite"
+  };
   return (
     <div class="wrapper">
       <div class="intro">
         <h1>My name is <div class="name">Rithvik Bhogavilli</div>!</h1>
         <h2>I'm a senior in the SMCS program at Poolesville High School.</h2>
         <hr width="100rem"/>
+        <FaChevronDown onClick={() => {
+          window.scroll({
+            top: document.body.offsetHeight,
+            left: 0,
+            behavior: "smooth"
+          })
+          }}
+          style={arrowStyle}
+        />
       </div>
       <div class="about">
         <div class="about_face">
