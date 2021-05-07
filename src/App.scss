@@ -8,24 +8,21 @@ body {
     background-color: #{$bg-color};
     color:#{$font-color};
 
-    justify-content: center;
-    margin: auto;
-    width: 100rem;
-    height: 100vh;
-    display: flex;
-	flex-direction: column;
-	align-items: center;
 }
 
 .intro .name {
     display: inline-flex;
-    color: #{$name-color};
+    color: #{$font-color};
 }
 
 .intro {
-    width: 100%;
+    display: flex;
+	flex-direction: column;
     margin: auto;
-    min-height: 80%
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .intro h1 {
@@ -39,8 +36,7 @@ body {
 
 .wrapper {
     width: 100%;
-    max-width: 96rem;
-    height: 80%;
+    height: 100vh;
 }
 
 .flex {
@@ -61,25 +57,29 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    justify-items: center;
     align-items: center;
     width: 100%;
+    min-height: 100vh;
+    gap: 20px;
 }
 
-.about > div {
-    display: table-cell;
+.about_blurb {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 400px;
 }
 
-.about h1 {
-    width: 50%;
-    margin: 5px;
+.about_splitter {
+    background-color: #ccc;
+    width: 2px;
+    height: 25vh;
 }
 
-.about p {
-    width: 50%;
-    margin-left: 10px;
+.about_face {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-width: 50vw;
 }
-
-// .divider {
-//     border-left: 1px solid;
-//     margin: 10px;
-// }
