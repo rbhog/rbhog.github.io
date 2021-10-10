@@ -1,3 +1,0 @@
-# yo momma is so fat she is fat
-User-agent: *
-Disallow:/yo-momma.jpeg
