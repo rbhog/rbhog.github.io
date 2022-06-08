@@ -1,0 +1,59 @@
+baseURL: http://rbhog.github.io/
+languageCode: en-us
+title: Rithvik Bhogavilli
+theme: "PaperMod"
+paginate: 6
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: About
+                  url: about-me/
+                  weight: 5
+                - name: Archive
+                  url: archives
+                  weight: 20
+                - name: Notes
+                  url: notes/
+                  weight: 15
+                - name: Projects
+                  url: projects/
+                  weight: 10
+                - name: Experience
+                  url: experience/
+                  weight: 7
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    defaultTheme: auto
+
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: >
+            Hi, my name is Rithvik Bhogavilli. I study Computer Engineering at UIUC.
+
+            - I am interested in **autonomy**, **control systems**, and **cybersecurity**.
+
+            - In my free time, I enjoy learning about music history and breaking my configs while trying to install libraries.
+
+            - If you are competent in web dev, please help me.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/rbhog"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rithvik-bhogavilli/"
+        - name: ctftime
+          url: "https://ctftime.org/user/41176"
