@@ -58,5 +58,5 @@ params:
         - name: ctftime
           url: "https://ctftime.org/user/41176"
 
-    assets:
-        favicon: "favicon.ico"
+    # assets:
+    #     favicon: "favicon.ico"
