@@ -12,6 +12,8 @@
   </url><url>
     <loc>http://rbhog.github.io/experience/</loc>
   </url><url>
+    <loc>http://rbhog.github.io/experience-desc/</loc>
+  </url><url>
     <loc>http://rbhog.github.io/hack-illinois-2022/</loc>
   </url><url>
     <loc>http://rbhog.github.io/hacktj-8/</loc>
@@ -20,7 +22,7 @@
   </url><url>
     <loc>http://rbhog.github.io/masseyhacks-vii/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/projects/</loc>
+    <loc>http://rbhog.github.io/project-desc/</loc>
   </url><url>
     <loc>http://rbhog.github.io/projects/</loc>
   </url><url>
@@ -29,5 +31,7 @@
     <loc>http://rbhog.github.io/series/</loc>
   </url><url>
     <loc>http://rbhog.github.io/tags/</loc>
+  </url><url>
+    <loc>http://rbhog.github.io/mind-lab/</loc>
   </url>
 </urlset>
