@@ -57,3 +57,6 @@ params:
           url: "https://www.linkedin.com/in/rithvik-bhogavilli/"
         - name: ctftime
           url: "https://ctftime.org/user/41176"
+
+    assets:
+        favicon: "favicon.ico"
