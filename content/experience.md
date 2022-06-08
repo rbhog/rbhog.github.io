@@ -17,6 +17,7 @@ Developed JupyterLab extensions for kernel management and navigation.
 ***Summer Intern (Summer 2020)***
 
 Created an interactive map of university buildings and classrooms and filtered phone location data.
+[More Info](/mind-lab/)
 
 ### Efabless.com
 ***Summer Intern (Summer 2020)***
