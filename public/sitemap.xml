@@ -2,38 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rbhog.github.io/about-me/</loc>
+    <loc>https://rbhog.github.io/about-me/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/archives/</loc>
+    <loc>https://rbhog.github.io/archives/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/ctf/</loc>
+    <loc>https://rbhog.github.io/ctf/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/categories/</loc>
+    <loc>https://rbhog.github.io/categories/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/experience/</loc>
+    <loc>https://rbhog.github.io/experience/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/experience-desc/</loc>
+    <loc>https://rbhog.github.io/experience-desc/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/ftc13100/</loc>
+    <loc>https://rbhog.github.io/frc4099/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/hack-illinois-2022/</loc>
+    <loc>https://rbhog.github.io/ftc13100/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/hacktj-8/</loc>
+    <loc>https://rbhog.github.io/hack-illinois-2022/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/los-altos-v/</loc>
+    <loc>https://rbhog.github.io/hacktj-8/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/masseyhacks-vii/</loc>
+    <loc>https://rbhog.github.io/los-altos-v/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/project-desc/</loc>
+    <loc>https://rbhog.github.io/masseyhacks-vii/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/projects/</loc>
+    <loc>https://rbhog.github.io/project-desc/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/</loc>
+    <loc>https://rbhog.github.io/projects/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/series/</loc>
+    <loc>https://rbhog.github.io/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/tags/</loc>
+    <loc>https://rbhog.github.io/series/</loc>
   </url><url>
-    <loc>http://rbhog.github.io/mind-lab/</loc>
+    <loc>https://rbhog.github.io/tags/</loc>
+  </url><url>
+    <loc>https://rbhog.github.io/mind-lab/</loc>
   </url>
 </urlset>
