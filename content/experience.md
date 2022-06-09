@@ -29,3 +29,6 @@ Optimized the Magic VLSI Layout Tool and quantified performance gains.
 
 ### FIRST Tech Challenge Team 13100
 ***Mentor (2021 - Present), Captain (2020-2021)***
+
+Implemented odometry and path planning algorithms and taught strategic design practices.
+[More Info](/ftc13100/) 
