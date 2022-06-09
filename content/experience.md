@@ -27,6 +27,8 @@ Optimized the Magic VLSI Layout Tool and quantified performance gains.
 ### FIRST Robotics Competition Team 4099
 ***Controls Lead (2019-2021)***
 
+Programmed robot subsystems and developed custom path planning for holonomic drivetrain. 
+
 ### FIRST Tech Challenge Team 13100
 ***Mentor (2021 - Present), Captain (2020-2021)***
 
