@@ -29,6 +29,9 @@ languages:
                 - name: Experience
                   url: experience/
                   weight: 7
+                - name: Education
+                  url: education/
+                  weight: 6
 
 outputs:
     home:
