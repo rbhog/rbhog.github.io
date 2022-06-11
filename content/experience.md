@@ -23,6 +23,7 @@ Created an interactive map of university buildings and classrooms and filtered p
 ***Summer Intern (Summer 2020)***
 
 Optimized the Magic VLSI Layout Tool and quantified performance gains.
+[More Info](/efabless/)
 
 ### FIRST Robotics Competition Team 4099
 ***Controls Lead (2019-2021)***
