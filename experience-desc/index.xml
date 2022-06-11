@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://rbhog.github.io/experience-desc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Efabless.com Internship</title>
+      <link>https://rbhog.github.io/efabless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rbhog.github.io/efabless/</guid>
+      <description>Optimized the Magic VLSI Layout Tool and quantified performance gains.</description>
+    </item>
+    
+    <item>
       <title>FRC Team 4099 - The Falcons</title>
       <link>https://rbhog.github.io/frc4099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
