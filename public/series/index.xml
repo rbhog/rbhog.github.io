@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Rithvik Bhogavilli</title>
-    <link>https://rbhog.github.io/series/</link>
+    <link>https://rbhog.me/series/</link>
     <description>Recent content in Series on Rithvik Bhogavilli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rbhog.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rbhog.me/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
