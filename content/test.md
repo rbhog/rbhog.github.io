@@ -1,9 +1,8 @@
 ---
 title: "Test"
-katex: true
 url: "/test/"
 summary: test
-
+katex: true
 ShowToc: false
 ShowShareButtons: false
 ShowReadingTime: false
