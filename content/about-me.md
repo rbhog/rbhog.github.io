@@ -8,7 +8,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-# Hi, I'm Rithvik
+# ![me](/me.png) Hi, I'm Rithvik
 
 I am currently studying Computer Engineering at the University of Illinois, Urbana-Champaign.
 

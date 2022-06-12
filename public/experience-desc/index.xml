@@ -42,5 +42,14 @@
       <description>A web app to navigate campus buildings and classrooms and filter phone location data.</description>
     </item>
     
+    <item>
+      <title>University of Illinois CyberGIS Center</title>
+      <link>https://rbhog.github.io/cybergis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rbhog.github.io/cybergis/</guid>
+      <description>Developed JupyterLab extensions for kernel management and navigation.</description>
+    </item>
+    
   </channel>
 </rss>

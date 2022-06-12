@@ -12,6 +12,7 @@ ShowBreadCrumbs: false
 ***Researcher (Fall 2021)***
 
 Developed JupyterLab extensions for kernel management and navigation.
+[More Info](/cybergis/)
 
 ### University of Maryland MIND Lab
 ***Summer Intern (Summer 2020)***
