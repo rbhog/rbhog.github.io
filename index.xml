@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rithvik Bhogavilli</title>
-    <link>https://rbhog.github.io/</link>
+    <link>https://rbhog.me/</link>
     <description>Recent content on Rithvik Bhogavilli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rbhog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rbhog.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://rbhog.github.io/about-me/</link>
+      <link>https://rbhog.me/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/about-me/</guid>
+      <guid>https://rbhog.me/about-me/</guid>
       <description>About Me</description>
     </item>
     
     
     <item>
       <title>Capture the Flag</title>
-      <link>https://rbhog.github.io/ctf/</link>
+      <link>https://rbhog.me/ctf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/ctf/</guid>
+      <guid>https://rbhog.me/ctf/</guid>
       <description>My experiences in capture the flag.</description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://rbhog.github.io/education/</link>
+      <link>https://rbhog.me/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/education/</guid>
+      <guid>https://rbhog.me/education/</guid>
       <description>Education</description>
     </item>
     
     <item>
       <title>Efabless.com Internship</title>
-      <link>https://rbhog.github.io/efabless/</link>
+      <link>https://rbhog.me/efabless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/efabless/</guid>
+      <guid>https://rbhog.me/efabless/</guid>
       <description>Optimized the Magic VLSI Layout Tool and quantified performance gains.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://rbhog.github.io/experience/</link>
+      <link>https://rbhog.me/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/experience/</guid>
+      <guid>https://rbhog.me/experience/</guid>
       <description>Experience</description>
     </item>
     
     <item>
       <title>FRC Team 4099 - The Falcons</title>
-      <link>https://rbhog.github.io/frc4099/</link>
+      <link>https://rbhog.me/frc4099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/frc4099/</guid>
+      <guid>https://rbhog.me/frc4099/</guid>
       <description>A FIRST Robotics Competition team that I was on throughout high school.</description>
     </item>
     
     <item>
       <title>FTC Team 13100 - 47 Beavers</title>
-      <link>https://rbhog.github.io/ftc13100/</link>
+      <link>https://rbhog.me/ftc13100/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/ftc13100/</guid>
+      <guid>https://rbhog.me/ftc13100/</guid>
       <description>A FIRST Tech Challenge team that I now mentor.</description>
     </item>
     
     <item>
       <title>Hack Illinois 2022 - infected &amp; detected</title>
-      <link>https://rbhog.github.io/hack-illinois-2022/</link>
+      <link>https://rbhog.me/hack-illinois-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/hack-illinois-2022/</guid>
+      <guid>https://rbhog.me/hack-illinois-2022/</guid>
       <description>A machine learning model to detect diseased plants and a real-time web app to find diseased crops.</description>
     </item>
     
     <item>
       <title>HackTJ 8.0 - Crash Central</title>
-      <link>https://rbhog.github.io/hacktj-8/</link>
+      <link>https://rbhog.me/hacktj-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/hacktj-8/</guid>
+      <guid>https://rbhog.me/hacktj-8/</guid>
       <description>An interactive web app to display dangerous accident hotspots from crash data.</description>
     </item>
     
     <item>
       <title>Los Altos Hacks V - from city import pandemic</title>
-      <link>https://rbhog.github.io/los-altos-v/</link>
+      <link>https://rbhog.me/los-altos-v/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/los-altos-v/</guid>
+      <guid>https://rbhog.me/los-altos-v/</guid>
       <description>A tool for local governments to correlate demographics with COVID case rate for vaccine allocation.</description>
     </item>
     
     <item>
       <title>MasseyHacks VII - Park Alert</title>
-      <link>https://rbhog.github.io/masseyhacks-vii/</link>
+      <link>https://rbhog.me/masseyhacks-vii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/masseyhacks-vii/</guid>
+      <guid>https://rbhog.me/masseyhacks-vii/</guid>
       <description>A web app to find parking spots while avoiding parking fines.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://rbhog.github.io/projects/</link>
+      <link>https://rbhog.me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/projects/</guid>
+      <guid>https://rbhog.me/projects/</guid>
       <description>Projects</description>
     </item>
     
     <item>
       <title>UMD MIND Lab Internship</title>
-      <link>https://rbhog.github.io/mind-lab/</link>
+      <link>https://rbhog.me/mind-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/mind-lab/</guid>
+      <guid>https://rbhog.me/mind-lab/</guid>
       <description>A web app to navigate campus buildings and classrooms and filter phone location data.</description>
     </item>
     
     <item>
       <title>University of Illinois CyberGIS Center</title>
-      <link>https://rbhog.github.io/cybergis/</link>
+      <link>https://rbhog.me/cybergis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rbhog.github.io/cybergis/</guid>
+      <guid>https://rbhog.me/cybergis/</guid>
       <description>Developed JupyterLab extensions for kernel management and navigation.</description>
     </item>
     
