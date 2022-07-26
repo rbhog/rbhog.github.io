@@ -21,9 +21,6 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 20
-                - name: Notes
-                  url: notes/
-                  weight: 15
                 - name: Projects
                   url: projects/
                   weight: 10
@@ -42,6 +39,17 @@ outputs:
 
 params:
     defaultTheme: auto
+
+    profileMode:
+        enabled: true
+        title: "Rithvik Bhogavilli"
+        subtitle: "Computer Engineering @ UIUC"
+        imageURL: "./me.png"
+        buttons:
+          - name: "About me"
+            url: "/about-me"
+          - name: "Experience"
+            url: "/experience"
 
     homeInfoParams:
         Title: "Hi there \U0001F44B"
