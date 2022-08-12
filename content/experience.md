@@ -27,7 +27,7 @@ Optimized the Magic VLSI Layout Tool and quantified performance gains.
 [More Info](/efabless/)
 
 ### FIRST Robotics Competition Team 4099
-***Controls Lead (2019-2021)***
+***Mentor (2022-Present), Controls Lead (2019-2021)***
 
 Programmed robot subsystems and developed custom path planning for holonomic drivetrain. 
 [More Info](/frc4099/) 
