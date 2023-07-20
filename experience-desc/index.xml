@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://rbhog.me/experience-desc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Blue Origin</title>
+      <link>https://rbhog.me/blue-origin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rbhog.me/blue-origin/</guid>
+      <description>Developing camera software for the New Glenn rocket.</description>
+    </item>
+    
+    <item>
       <title>Efabless.com Internship</title>
       <link>https://rbhog.me/efabless/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,6 +40,15 @@
       
       <guid>https://rbhog.me/ftc13100/</guid>
       <description>A FIRST Tech Challenge team that I now mentor.</description>
+    </item>
+    
+    <item>
+      <title>Illinois Space Society Spaceshot Avionics</title>
+      <link>https://rbhog.me/iss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rbhog.me/iss/</guid>
+      <description>Developing simulations and control aglorithms for the Spaceshot rocket.</description>
     </item>
     
     <item>
