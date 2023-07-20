@@ -7,6 +7,17 @@ ShowShareButtons: false
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
+### Blue Origin
+***Avionics Software Intern (Summer 2023)***
+
+Developing camera software for the New Glenn rocket.
+[More Info](/blue-origin/)
+
+### Illinois Space Society Spaceshot Avionics
+***Software and GNC Team Member (2022-Present)***
+
+Developing simulations and control aglorithms for the Spaceshot rocket.
+[More Info](/iss/)
 
 ### University of Illinois CyberGIS Center
 ***Researcher (Fall 2021)***
